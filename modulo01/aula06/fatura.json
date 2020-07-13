@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "nome": "Felipe Panegalli",
+  "nascimento": "2020-10-02",
+  "notasFiscais": [
+    {
+      "id": 1313,
+      "dataCompra": "2020-07-13",
+      "entregue": false,
+      "items": [
+        {
+          "id": 123,
+          "valorUnitario": 15.10,
+          "quantidade": 4
+        },
+        {
+          "id": 549,
+          "valorUnitario": 9.00,
+          "quantidade": 12
+        },
+        {
+          "id": 24,
+          "valorUnitario": 35.10,
+          "quantidade": 52
+        }
+      ]
+    }
+  ]
+}
